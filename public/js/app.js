@@ -45550,7 +45550,7 @@ var render = function() {
                   ]),
                   _vm._v(" "),
                   _c("div", { staticClass: "modal-body" }, [
-                    _c("div", [_vm._v(_vm._s(_vm.item.content))])
+                    _c("div", [_vm._v(_vm._s(_vm.item.description))])
                   ])
                 ])
               ]

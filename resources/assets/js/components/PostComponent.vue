@@ -153,7 +153,7 @@
                         <h5 class="modal-title" id="myModalLabel">{{ item.title }}</h5>
                     </div>
                     <div class="modal-body">
-                      <div>{{ item.content}}</div>
+                      <div>{{ item.description}}</div>
                     </div>
                 </div>
             </div>
